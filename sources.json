@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "updated_at": "2026-08-16",
+  "sources": [
+    {
+      "id": "phimmoi",
+      "name": "Phim Mới",
+      "category": "movie",
+      "baseUrl": "https://phimmoi.net/",
+      "icon": "🎬",
+      "enabled": true
+    },
+    {
+      "id": "animehay",
+      "name": "Anime Hay",
+      "category": "anime",
+      "baseUrl": "https://animehay.tv/",
+      "icon": "🎌",
+      "enabled": true
+    }
+  ]
+}
